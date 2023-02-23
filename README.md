@@ -1,4 +1,4 @@
-# visualizacao-1q2023
+# UFABC - Visualização de Dados e Informações - 2023.1
 
 ![Representation of data visualization](./imagens/613158262dde4943a51937aa_data%20visualization%20tips_blog%20hero.jpg)
 
