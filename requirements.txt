@@ -2,5 +2,8 @@ matplotlib
 pandas
 seaborn
 chardet
-yfinance==0.2.14
 ipykernel
+openpyxl
+requests
+geopy
+geopandas
