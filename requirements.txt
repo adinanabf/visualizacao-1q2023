@@ -7,3 +7,5 @@ openpyxl
 requests
 geopy
 geopandas
+folium
+plotly
